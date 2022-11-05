@@ -12,6 +12,7 @@
     transition: .8s;
     position: absolute;
     right: -250px;
+    z-index: 1;
 }
 
 .sidebar-head {
